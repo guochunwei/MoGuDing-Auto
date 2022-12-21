@@ -9,22 +9,8 @@ MoGuDing-Auto
 蘑菇丁X工学云每日上下班打卡，支持多账户，指定地区，多种推送方式
 
 
-WEB版本：[点击进入](https://auto.taoyun.cloud/login) 
-
-备用网址：[点击进入](https://auto.zeee.me/login) 
-
-目前WEB版已支持每日上下班打卡，日周月报，总结，健康上报，支持图片添加，支持多账户，指定地区，多种推送方式
-
-
 请不要使用本开源程序在服务器上跑(包括GitHub的Actions)！！！
 
-请不要使用本开源程序在服务器上跑(包括GitHub的Actions)！！！
-
-请不要使用本开源程序在服务器上跑(包括GitHub的Actions)！！！
-
-微信交流群:
-
-<img src="http://pay.zeee.me/res/images/wx.jpg" style="zoom:33%;" />
 
 ## 项目功能
 
